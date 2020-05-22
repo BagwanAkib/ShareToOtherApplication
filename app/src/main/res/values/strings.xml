@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Share on social site</string>
+    <string name="enter_message_here">Enter message here</string>
+    <string name="no_image_selected">No image selected</string>
+    <string name="select_image_from_storage">Select Image from storage</string>
+    <string name="select_image">select Image</string>
+</resources>
